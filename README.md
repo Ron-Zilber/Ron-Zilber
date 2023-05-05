@@ -5,7 +5,7 @@
   I'm Specialized in Computers and Computer Networks. 
   
   ### Main Skills:
-  C++, C, Python, TCP/IP, Linux.
+  C++, C, Python, TCP/IP, Linux, Erlang.
   
   ### CONTACT
   zron13il@gmail.com

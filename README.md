@@ -2,7 +2,7 @@
   I'm Ron Zilber, an Electrical and Computers Engineering student at Ben-Gurion University,
   Graduate 2024 (3 semesters left).
   
-  I'm Specialized in Computers and Computer Networks. 
+  I'm specialized in Computers and Computer Networks. 
   
   ### Main Skills:
   C++, C, Python, TCP/IP, Linux, Erlang.

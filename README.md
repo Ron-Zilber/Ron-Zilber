@@ -9,6 +9,8 @@
   
   ### CONTACT
   zron13il@gmail.com
+  linkedin.com/in/ron-zilber/
+ 
   
   Available to work at the south and the center districts. (Israel)
 

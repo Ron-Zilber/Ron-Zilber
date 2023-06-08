@@ -1,5 +1,5 @@
 ### Hi!
-  I'm Ron Zilber, an Electrical and Computers Engineering student at Ben-Gurion University,
+  I'm Ron Zilbershtein, an Electrical and Computers Engineering student at Ben-Gurion University,
   Graduate 2024 (3 semesters left).
   
   I'm specialized in Computers and Computer Networks. 

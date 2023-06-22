@@ -1,5 +1,8 @@
 ### Hi!
-  I'm Ron Zilbershtein, an Electrical and Computers Engineering student at Ben-Gurion University,
+  I'm Ron Zilbershtein,
+  
+  Ben-Gurion University of the Negev Student
+  Electrical and Computer Engineering
   Graduate 2024 (3 semesters left).
   
   I'm specialized in Computers and Computer Networks. 

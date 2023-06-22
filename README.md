@@ -2,10 +2,12 @@
   I'm Ron Zilbershtein,
   
   Ben-Gurion University of the Negev Student
+  
   Electrical and Computer Engineering
+  
   Graduate 2024 (3 semesters left).
   
-  I'm specialized in Computers and Computer Networks. 
+  Specializations : Computers and Computer Networks. 
   
   ### Main Skills:
   C++, C, Python, TCP/IP, Linux, Erlang.
@@ -13,7 +15,7 @@
   ### CONTACT
   zron13il@gmail.com
   
-  linkedin.com/in/ron-zilber/
+  [linkedin.com/in/ron-zilber](https://www.linkedin.com/in/ron-zilber/)
  
   
   Available to work at the south and the center districts. (Israel)

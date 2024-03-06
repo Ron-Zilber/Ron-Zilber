@@ -5,12 +5,12 @@
   
   Electrical and Computer Engineering
   
-  Graduate 2024 (3 semesters left).
+  Graduate 2024.
   
   Specializations : Computers and Computer Networks. 
   
   ### Main Skills:
-  C++, C, Python, TCP/IP, Linux, Erlang.
+  Go, C++, C, Python, TCP/IP, Linux, Erlang.
   
   ### CONTACT
   zron13il@gmail.com

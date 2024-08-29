@@ -1,11 +1,9 @@
 ### Hi!
   I'm Ron Zilbershtein,
   
-  Ben-Gurion University of the Negev Student
+  Ben-Gurion University of the Negev graduate
   
   Electrical and Computer Engineering
-  
-  Graduate 2024.
   
   Specializations : Computers and Computer Networks. 
   
@@ -17,8 +15,6 @@
   
   [linkedin.com/in/ron-zilber](https://www.linkedin.com/in/ron-zilber/)
  
-  
-  Available to work at the south and the center districts. (Israel)
 
 <!--
 **Ron-Zilber/Ron-Zilber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
